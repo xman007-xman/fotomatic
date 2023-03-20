@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Mkdocs annotations fixes (#7600)
