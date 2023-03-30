@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Allow Annotator PIL.Image inputs (#8397)
