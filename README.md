@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Update format.yml to pull_request_target (#7460)
