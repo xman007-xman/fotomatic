@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Docs partial mdformat improvements (#7378)
