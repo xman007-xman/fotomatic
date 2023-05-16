@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
