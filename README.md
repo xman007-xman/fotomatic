@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
