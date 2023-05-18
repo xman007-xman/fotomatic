@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
