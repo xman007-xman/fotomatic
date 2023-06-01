@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add new YOLOv8 OBB model metrics (#7379)
