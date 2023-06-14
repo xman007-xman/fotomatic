@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Update Colab notebook for YOLOv8.1 (#8660)
