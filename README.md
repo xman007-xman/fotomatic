@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+ultralytics 8.0.230 TensorRT export hang fix (#7180)
