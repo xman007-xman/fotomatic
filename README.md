@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add Neural Magic Docs integrations page (#7234)
