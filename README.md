@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
