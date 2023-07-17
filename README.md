@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Elaborate Train and Predict mode docs arguments (#8137)
