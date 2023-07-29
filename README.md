@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+ultralytics 8.1.27 batched tracking fixes (#8842)
