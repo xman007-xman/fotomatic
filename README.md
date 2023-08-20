@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Optimize function calls to method calls (#8507)
