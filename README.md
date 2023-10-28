@@ -1,1 +1,1 @@
-fix val each epoch
+example Google Colab
