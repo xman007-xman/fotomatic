@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add horizontal Mosaic3 augmentation (#6898)
