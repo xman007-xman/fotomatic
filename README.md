@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+OBB: Fix plot_images (#7592)
