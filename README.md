@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Add C++ Classify inference example (#6868)
