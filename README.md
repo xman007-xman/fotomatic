@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add OBB save_txt feature (#7450)
