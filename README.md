@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
