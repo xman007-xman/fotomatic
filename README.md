@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
