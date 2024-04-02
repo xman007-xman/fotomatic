@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Replacing Images for torchscript.md (#8596)
