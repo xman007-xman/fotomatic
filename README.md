@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Resize angle, count, and stage on keypoint number change (#7598)
