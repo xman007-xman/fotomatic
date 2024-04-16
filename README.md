@@ -1,1 +1,1 @@
-ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
