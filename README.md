@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
