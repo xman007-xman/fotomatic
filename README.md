@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
