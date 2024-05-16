@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Replace onnx2tf usage from CLI to Python (#8429)
