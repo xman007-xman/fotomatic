@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix PIL show() and save() (#8202)
