@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Fix docker.yaml double-quote version bug (#7452)
