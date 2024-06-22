@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
