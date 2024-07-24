@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Elaborate Train and Predict mode docs arguments (#8137)
