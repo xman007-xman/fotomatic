@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
