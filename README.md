@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
